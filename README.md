@@ -3,6 +3,7 @@
 This project demonstrates the implementation of a neural network using TensorFlow/Keras to analyze and predict from the Life Expectancy dataset.
 
 ## Features
+Exploratory analysis with pandas.
 
 Data preprocessing with scikit-learn (train/test split, scaling, normalization).
 
