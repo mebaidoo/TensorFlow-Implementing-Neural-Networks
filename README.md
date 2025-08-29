@@ -1,6 +1,6 @@
 # Neural Network on Life Expectancy Data
 
-This project demonstrates the implementation of a neural network using TensorFlow/Keras to analyze and predict from the Life Expectancy dataset.
+This project demonstrates the implementation of a neural network using TensorFlow/Keras to analyze and predict life expectancy from various features in the Life Expectancy dataset.
 
 ## Features
 Exploratory analysis with pandas.
